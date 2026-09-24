@@ -1,0 +1,8 @@
+streamlit>=1.36
+requests>=2.31
+beautifulsoup4>=4.12
+reportlab>=4.0
+pydantic>=2.7
+pandas>=2.1
+youtube-transcript-api>=1.0.0
+extra-streamlit-components>=0.1.81
